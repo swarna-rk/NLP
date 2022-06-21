@@ -6,7 +6,7 @@ Later used the fine-tuned model to generate text based on an input text.
 
 <h3>How to launch streamlit app?</h3>
 
-streamlit run generatetext.py
+!streamlit run generatetext.py
 
 <h1>Screenshot of the streamlit app</h1>
 

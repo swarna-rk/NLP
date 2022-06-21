@@ -7,3 +7,6 @@ How to launch streamlit app?
 
 streamlit run generatetext.py
 
+<h1>Screenshot of the streamlit output<h1>
+
+![solarized palette](https://github.com/swarna-rk/NLP/blob/main/Language%20Model/Plain%20GPT2/gpt2.png)

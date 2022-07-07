@@ -2,7 +2,7 @@
 
 Fine-tuned GPT-2 to generate text based on Harry Potter and the Sorcerer's stone.
 Used Google colab to fine-tune and saved the fine-tuned model to Google Drive.
-Later used the fine-tuned model to generate text based on an input text.
+Later used the fine-tuned model to generate text based on context.
 
 <h3>How to launch streamlit app?</h3>
 
